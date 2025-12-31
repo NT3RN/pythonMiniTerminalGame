@@ -41,7 +41,7 @@ def spacebattle(player):
 def adventure():
     player = {"hp": 90}
     print("Galactic Exploration Mission")
-    print("You command a small exploration vessel on the edge of known space.\n")
+    print("You command a small exploration vessel on the edge of uknown space.\n")
 
     print("Where do you jump next?")
     print("1. Nebula X-69")
